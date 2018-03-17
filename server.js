@@ -105,3 +105,4 @@ process.on('uncaughtException', function (err) {
   }
   process.exit()
 })
+bot.login(BOT_TOKEN)
